@@ -108,7 +108,7 @@ masks = [[-1,1,1],[-1,-2,1],[-1,1,1]],[[1,1,1],[1,-2,1],[-1,-1,1]],[[1,1,1],[1,-
 mask = [[-1,-2,-1],[0,0,0],[1,2,1]]
 #medianFilter('median.jpg')
 
-medianFilter('empire.jpg')
+medianFilter('erp.jpg')
 convelve(masks,'median.jpg')
 #convelve(masks[3],'empire.jpg')
         
